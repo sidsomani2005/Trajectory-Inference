@@ -2,8 +2,6 @@
 
 (WIP) This repository includes cross-comparison performance testing for the trajectory inference methods put forward by the papers below on their respective datasets.
 
-For up-to-date documents on overleaf : https://github.com/vireshpati/AI4TS-2025-Spring 
-
 Relevant scripts are:
 - for MFL native: mfl/fig1_batch/run_local.sh
 - for MFL eot benchmark: mfl/fig1_batch/eot_mfl_benchmark.py
