@@ -1,4 +1,4 @@
-# Trajectory Inference: Sinkhorn vs Mean Field Langevin
+# Trajectory Inference: Sinkhorn Bridges vs Mean Field Langevin
 
 (WIP) This repository includes cross-comparison performance testing for the trajectory inference methods put forward by the papers below on their respective datasets.
 
